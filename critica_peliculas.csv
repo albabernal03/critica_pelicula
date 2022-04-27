@@ -1,7 +1,7 @@
-﻿Opiniones;Cantidad_votantes
-0;58
-1;88
-2;124
-3;132
-4;96
-5;42
+﻿Opiniones(xi);Cantidad_votantes(ni);Producto(xi*ni);Producto_2(xi^2*ni)
+5;40;200;1000
+4;99;396;1584
+3;145;435;1305
+2;133;266;532
+1;96;96;96
+0;40;0;0
